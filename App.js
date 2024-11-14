@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import ResumeDisplay from './components/documentDisplay';
+import ResumeDisplay from './documentDisplay';
 
 function App() {
   return (
